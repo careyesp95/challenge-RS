@@ -37,7 +37,7 @@ la primera forma normal , segunda forma normal, tercera forma normal, donde los 
 
 
 <p align="right">
-  <img height="200" src="./comercioElectrónico.png" />
+  <img height="200" src="./comercioElectronico.PNG" />
 </p>
 
 ## Task 2
